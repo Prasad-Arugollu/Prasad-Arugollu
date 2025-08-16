@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalu Prasad</h1>
+<h1 align="center">Hi 👋, I'm Prasad Arugollu</h1>
 <h3 align="center">💻 Senior Undergraduate | B.Tech (AI & ML) | Full Stack & AI Enthusiast</h3>
 
 <p align="left"> 
