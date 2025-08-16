@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **AI + Web + Automation Projects**  
 - 🤝 I’m looking for help with **AI-powered Productivity Tools**  
 - 📫 Reach me at **prasadarugollu05@gmail.com**  
-- 📱 Call me: **+91-7386741656**
+
 
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -22,9 +22,7 @@
   <a href="mailto:prasadarugollu05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+917386741656" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-green?logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
+  
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
