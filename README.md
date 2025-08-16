@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lalu Prasad</h1>
 <h3 align="center">💻 Senior Undergraduate | B.Tech (AI & ML) | Full Stack & AI Enthusiast</h3>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=prasad-arugollu&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-arugollu" /> 
 </p>
 
-- 🌱 Hi, I'm a **Software & AI Intern**, building scalable AI-powered web applications like **Coding Platforms - Student Performance Monitoring System**  
+🌱 Software & AI Intern – Built scalable AI-powered web applications like a Student Performance Monitoring System.
+
+🤖 Deep Learning Project – Developed an Animal Image Classification Model using deep learning techniques.  
 - 👯 I’m looking to collaborate on **AI + Web + Automation Projects**  
 - 🤝 I’m looking for help with **AI-powered Productivity Tools**  
 - 📫 Reach me at **prasadarugollu05@gmail.com**  
+- 📱 Call me: **+91-7386741656**
 
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -20,9 +22,10 @@
   <a href="mailto:prasadarugollu05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="tel:+917386741656" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-green?logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
 </p>
-
----
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
@@ -45,20 +48,9 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-arugollu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-arugollu&theme=tokyonight" alt="GitHub Streak" height="200"/></td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=prasad-arugollu&theme=onedark&row=1&column=6" alt="trophies"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prasad-arugollu&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="200" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-arugollu&theme=tokyonight&hide_border=true" height="800" width="470"/>
 </p>
